@@ -229,11 +229,11 @@ A strong analysis should be understandable to a business audience and connect fi
 
 ---
 
-# 🎥 Final Presentation
+# 🎥 Final Portfolio Presentation
 
-The final stakeholder presentation brings together the major findings from the internship, including sales performance, product and category patterns, geographic and time trends, age segmentation, statistical validation, business interpretation, and recommended actions.
+The final portfolio presentation brings together the major findings, analytical workflow, statistical validation, business insights, technical skills, and learning journey from the internship.
 
-🔗 [View Task 4 Presentation & Supporting Files](https://github.com/Anugrah2801/ApexPlanet-Data-Analytics-Internship/tree/main/Task-4)
+🔗 [View Final Portfolio Presentation](./Anugrah_Data_Analytics_Internship_Portfolio.pptx)
 
 ---
 
